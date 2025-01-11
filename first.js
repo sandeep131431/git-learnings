@@ -6,5 +6,6 @@ console.log(longin);
 
 const footer  = "footer added";
 console.log(footer);
+
 const pay = "integrated the payment added";
 console.log(pay);
