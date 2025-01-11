@@ -9,3 +9,5 @@ console.log(footer);
 
 const pay = "integrated the payment added";
 console.log(pay);
+
+console.log("hello");
